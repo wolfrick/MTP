@@ -1,2 +1,0 @@
-# MTP
-This git repository is for all the MTP work that I have done from July,2017 to January,2018.
