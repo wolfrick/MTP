@@ -1,0 +1,8 @@
+section .text
+global _start
+_start:
+
+    retl
+    mov eax, 1
+    mov ebx, 5
+    add eax, ebx
